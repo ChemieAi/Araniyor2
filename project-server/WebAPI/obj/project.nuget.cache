@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d03r6XPDbPiba6SaydkBctaYQH4SCsY2ucxTxemaDl1jGFvy1kj5r53AciLZietZf0Klir9BN8tewMP/vw4k1Q==",
+  "dgSpecHash": "JKKPsA930d2xOhQTOfv2zN1vd01kBrhBxoEqUJFdl9JzAIj8odH2wajnbFAC2CoLt1ipZ/DfvAJICME/JoIbZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

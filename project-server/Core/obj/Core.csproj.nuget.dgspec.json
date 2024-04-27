@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Core\\Core.csproj": {}
+    "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Core\\Core.csproj": {
+    "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Core\\obj\\",
+        "outputPath": "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
