@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E8RtJDvzE5GqB1ewJ/RkqeU2D3aVa26p6zzPzHUasI0hcMMiWl8ZNzcYqceD1uT7aYoDDOPT9YQ1NnbYl1fH+Q==",
+  "dgSpecHash": "FOJKEhFHxMVNq3UKvKdZ778P0Mb5fAUB2ycwRosPHpe9R10GyvdQdFPvHofZVsL0a7NdorFVqgusT3SDLmX+Jg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
