@@ -4,9 +4,9 @@ import { AiFillDelete } from "react-icons/ai";
 import {
   deleteCreditCard,
   getCreditCardDetails,
-} from "../../../services/creditCardService";
-import { useCreditCardContext } from "../../../context/CreditCardContext";
-import { useSubmitContext } from "../../../context/SubmitContext";
+} from "../../services/creditCardService";
+import { useCreditCardContext } from "../../context/CreditCardContext";
+import { useSubmitContext } from "../../context/SubmitContext";
 
 function ControlCreditCards() {
   const { creditCards, setCreditCards } = useCreditCardContext();

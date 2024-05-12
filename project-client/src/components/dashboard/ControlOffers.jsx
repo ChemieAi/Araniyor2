@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
-import defaultImage from "../../../assets/default.png";
-import { useSubmitContext } from "../../../context/SubmitContext";
-import { deleteOffer, getOfferDetails } from "../../../services/offerService";
-import { useOfferContext } from "../../../context/OfferContext";
+import defaultImage from "../../assets/default.png";
+import { useSubmitContext } from "../../context/SubmitContext";
+import { deleteOffer, getOfferDetails } from "../../services/offerService";
+import { useOfferContext } from "../../context/OfferContext";
 import { AiFillDelete } from "react-icons/ai";
 import { toast } from "react-toastify";
 

@@ -36,8 +36,8 @@
               "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\DataAccess\\DataAccess.csproj": {
                 "projectPath": "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj"
+              "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj": {
+                "projectPath": "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj"
               }
             }
           }
@@ -268,8 +268,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj"
+              "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj": {
+                "projectPath": "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj"
               }
             }
           }
@@ -313,14 +313,14 @@
         }
       }
     },
-    "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj": {
+    "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj",
+        "projectUniqueName": "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj",
+        "projectPath": "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\obj\\",
+        "outputPath": "c:\\Users\\burak\\OneDrive\\Masaüstü\\MIX\\4. SINIF\\0 - TEZ ÖRNEK\\Aranıyor\\alsat\\project-server\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,16 +1,16 @@
 import React, { useEffect } from "react";
 import { NavLink } from "react-router-dom";
 import { toast } from "react-toastify";
-import { useProductContext } from "../../../context/ProductContext";
-import { deleteProductImage } from "../../../services/productImageService";
+import { useProductContext } from "../../context/ProductContext";
+import { deleteProductImage } from "../../services/productImageService";
 import {
   deleteProduct,
   getProduct,
   getProducts,
-} from "../../../services/productService";
-import defaultImage from "../../../assets/default.png";
+} from "../../services/productService";
+import defaultImage from "../../assets/default.png";
 import { AiFillDelete } from "react-icons/ai";
-import { useSubmitContext } from "../../../context/SubmitContext";
+import { useSubmitContext } from "../../context/SubmitContext";
 
 function ControlProducts() {
   const { products, setProducts } = useProductContext();

@@ -1,15 +1,15 @@
 import React, { useEffect } from "react";
 import { useFormik } from "formik";
-import { useColorContext } from "../../../context/ColorContext";
+import { useColorContext } from "../../context/ColorContext";
 import {
   deleteColor,
   getColors,
   postColor,
   updateColor,
-} from "../../../services/colorService";
+} from "../../services/colorService";
 import { toast } from "react-toastify";
-import { ControlSchema } from "../../../validations/controlSchema";
-import { useSubmitContext } from "../../../context/SubmitContext";
+import { ControlSchema } from "../../validations/controlSchema";
+import { useSubmitContext } from "../../context/SubmitContext";
 
 function Controlcolors() {
   const {

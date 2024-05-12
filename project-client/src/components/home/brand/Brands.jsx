@@ -1,7 +1,7 @@
 import { useEffect } from "react";
-import { getBrands } from "../../services/brandService";
+import { getBrands } from "../../../services/brandService";
 import { NavLink } from "react-router-dom";
-import { useBrandContext } from "../../context/BrandContext";
+import { useBrandContext } from "../../../context/BrandContext";
 
 function Brands() {
   const { brands, setBrands } = useBrandContext();

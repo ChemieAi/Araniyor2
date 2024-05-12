@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { NavLink } from "react-router-dom";
-import { useCategoryContext } from "../../context/CategoryContext";
-import { getCategories } from "../../services/categoryService";
+import { useCategoryContext } from "../../../context/CategoryContext";
+import { getCategories } from "../../../services/categoryService";
 
 function Categories() {
   const { categories, setCategories } = useCategoryContext();

@@ -1,13 +1,13 @@
 import React from "react";
 import { Routes, Route, NavLink } from "react-router-dom";
-import ControlUsers from "../../components/dashboard/control/ControlUsers";
+import ControlUsers from "../../components/dashboard/ControlUsers";
 import ControlBrands from "../../components/dashboard/ControlBrands";
-import ControlColors from "../../components/dashboard/control/ControlColors";
-import ControlCategories from "../../components/dashboard/control/ControlCategories";
-import ControlUsingStates from "../../components/dashboard/control/ControlUsingStates";
-import ControlProducts from "../../components/dashboard/control/ControlProducts";
-import ControlCreditCards from "../../components/dashboard/control/ControlCreditCards";
-import ControlOffers from "../../components/dashboard/control/ControlOffers";
+import ControlColors from "../../components/dashboard/ControlColors";
+import ControlCategories from "../../components/dashboard/ControlCategories";
+import ControlUsingStates from "../../components/dashboard/ControlUsingStates";
+import ControlProducts from "../../components/dashboard/ControlProducts";
+import ControlCreditCards from "../../components/dashboard/ControlCreditCards";
+import ControlOffers from "../../components/dashboard/ControlOffers";
 
 function DashBoard() {
   return (

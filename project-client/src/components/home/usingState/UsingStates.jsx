@@ -1,9 +1,9 @@
 import { useEffect } from "react";
-import { getColors } from "../../services/colorService";
+import { getColors } from "../../../services/colorService";
 import { NavLink } from "react-router-dom";
-import { useColorContext } from "../../context/ColorContext";
-import { UseUsingStateContext } from "../../context/UsingStateContext";
-import { getUsingStates } from "../../services/usingStateService";
+import { useColorContext } from "../../../context/ColorContext";
+import { UseUsingStateContext } from "../../../context/UsingStateContext";
+import { getUsingStates } from "../../../services/usingStateService";
 
 function UsingStates() {
   const { usingStates, setUsingStates } = UseUsingStateContext();

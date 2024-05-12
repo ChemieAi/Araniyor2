@@ -5,11 +5,11 @@ import {
   deleteCategory,
   getCategories,
   updateCategory,
-} from "../../../services/categoryService";
-import { useCategoryContext } from "../../../context/CategoryContext";
-import { postCategory } from "../../../services/categoryService";
-import { ControlSchema } from "../../../validations/controlSchema";
-import { useSubmitContext } from "../../../context/SubmitContext";
+} from "../../services/categoryService";
+import { useCategoryContext } from "../../context/CategoryContext";
+import { postCategory } from "../../services/categoryService";
+import { ControlSchema } from "../../validations/controlSchema";
+import { useSubmitContext } from "../../context/SubmitContext";
 
 function ControlCategories() {
   const {

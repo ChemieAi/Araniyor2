@@ -1,15 +1,15 @@
 import React, { useEffect } from "react";
 import { useFormik } from "formik";
 import { toast } from "react-toastify";
-import { ControlSchema } from "../../../validations/controlSchema";
-import { UseUsingStateContext } from "../../../context/UsingStateContext";
+import { ControlSchema } from "../../validations/controlSchema";
+import { UseUsingStateContext } from "../../context/UsingStateContext";
 import {
   deleteUsingState,
   getUsingStates,
   postUsingState,
   updateUsingState,
-} from "../../../services/usingStateService";
-import { useSubmitContext } from "../../../context/SubmitContext";
+} from "../../services/usingStateService";
+import { useSubmitContext } from "../../context/SubmitContext";
 
 function ControlUsingStates() {
   const {

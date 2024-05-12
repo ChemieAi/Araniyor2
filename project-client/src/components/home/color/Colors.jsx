@@ -1,7 +1,7 @@
 import { useEffect } from "react";
-import { getColors } from "../../services/colorService";
+import { getColors } from "../../../services/colorService";
 import { NavLink } from "react-router-dom";
-import { useColorContext } from "../../context/ColorContext";
+import { useColorContext } from "../../../context/ColorContext";
 
 function Colors() {
   const { colors, setColors } = useColorContext();

@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from "react";
 import { NavLink } from "react-router-dom";
 import { toast } from "react-toastify";
-import { useUserContext } from "../../../context/UserContext";
-import { block, unBlock } from "../../../services/authService";
-import { deleteAccount, getUsers } from "../../../services/userService";
+import { useUserContext } from "../../context/UserContext";
+import { block, unBlock } from "../../services/authService";
+import { deleteAccount, getUsers } from "../../services/userService";
 import { AiFillDelete } from "react-icons/ai";
-import { getFromLocalStorage } from "../../../services/localStorageService";
-import { useSubmitContext } from "../../../context/SubmitContext";
+import { getFromLocalStorage } from "../../services/localStorageService";
+import { useSubmitContext } from "../../context/SubmitContext";
 
 function ControlUsers() {
   const { isSubmitting, setIsSubmitting } = useSubmitContext();
